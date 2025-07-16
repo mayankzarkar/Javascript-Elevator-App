@@ -1,4 +1,4 @@
-# Javascript-Sample-Codes
+# Javascript-Elevator-App
 
 A curated set of JavaScript code samples showcasing different concepts and techniques. This repository serves as a resource for learning, experimenting, and sharing practical JavaScript implementations.
 
